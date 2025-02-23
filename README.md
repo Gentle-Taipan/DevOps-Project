@@ -1,6 +1,6 @@
 # Prerequisites
-#######
-- JDK 11 
+########this is a checking file for version change
+- JDK 26
 - Maven 3 
 - MySQL 8
 
