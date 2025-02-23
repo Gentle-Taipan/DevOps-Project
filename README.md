@@ -1,7 +1,7 @@
 # Prerequisites
-#
-- JDK 17 
-- Maven 3.9 
+###making changes in the atom readme file
+- JDK 20 
+- Maven 6 
 - MySQL 8
 
 # Technologies 
